@@ -1,0 +1,9 @@
+{
+  "name": "esbuild-data-clone-error",
+  "scripts": {
+    "test": "node build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.22"
+  }
+}
